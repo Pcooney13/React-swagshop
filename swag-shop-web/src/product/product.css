@@ -1,0 +1,13 @@
+.product{
+    padding:2em;
+    width:100%;
+    height:100%;
+}
+.img-holder{
+    height:200px;
+}
+.product img{
+    max-height:93%;
+    width:auto;
+    max-width:100%;
+}
